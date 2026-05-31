@@ -27,3 +27,4 @@ print("Imaginary Part =", x.imag)
 <img width="1471" height="380" alt="image" src="https://github.com/user-attachments/assets/e37ad8df-b366-42e5-bc72-6b3189d4f131" />
 
 ## Result
+The program was executed successfully and printed the complex number along with its real and imaginary parts.
