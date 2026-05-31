@@ -17,3 +17,4 @@ print(men_stepped_on_the_moon)
 <img width="1593" height="165" alt="image" src="https://github.com/user-attachments/assets/707150a6-8248-4fa9-bead-f42d808b0baa" />
 
 ## Result
+The program was executed successfully and printed the string entered by the user.
